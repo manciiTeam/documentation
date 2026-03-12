@@ -11,7 +11,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://docs.mancii.com', // 👈 cambia por tu dominio real cuando lo tengas
+  url: 'https://docs.mancii.com', 
   baseUrl: '/',
 
   organizationName: 'mancii', // 👈 tu usuario de GitHub
