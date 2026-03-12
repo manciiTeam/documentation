@@ -12,7 +12,7 @@ const config = {
   },
 
   url: 'https://docs.mancii.com', 
-  baseUrl: '/',
+  baseUrl: '/documentation/',
 
   organizationName: 'mancii', // 👈 tu usuario de GitHub
   projectName: 'mi-documentacion', // 👈 nombre de tu repo en GitHub
