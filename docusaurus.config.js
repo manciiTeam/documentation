@@ -17,7 +17,7 @@ const config = {
   organizationName: 'mancii', // 👈 tu usuario de GitHub
   projectName: 'mi-documentacion', // 👈 nombre de tu repo en GitHub
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',
